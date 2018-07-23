@@ -1,0 +1,8 @@
+{
+  "name": "ionic-validation-form",
+  "app_id": "e5267fe3",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
